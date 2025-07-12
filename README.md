@@ -1,3 +1,1 @@
-I am Kevin, a Senior Computer Engineering major at Texas A&M University.
-
-I hope to use my understanding and expertise over technology to make the world a better place.
+I am Kevin, a Computer Scientist interested in analyzing and building the future of our world, focusing on human-technology interfaces.
