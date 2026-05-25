@@ -11,5 +11,7 @@ I am Kevin, a Computer Scientist interested in analyzing and building the future
   - https://politihub.us
 - (super unfinished) as a kid I remember scouring YouTube for resources on a simulation of how the sun rises and sets in uranus through seasons given it's perpendical axis tilt. I randomly remembered it and started building a planets pov sort of thing
   - https://planets-pov.vercel.app/
+- simple digit recognition project hosted fully on github pages with demos and links to code and lessons learned: https://random.kjonasj.com/digit-recognition/
+- simple wasm vs javascript speed measurement tool exploring how wasm code is written, compiled, and deployed: https://random.kjonasj.com/nth-fibonacci.html
  
 There is definitely more I am missing lol
