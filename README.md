@@ -1,6 +1,6 @@
 I am Kevin, a Computer Scientist interested in analyzing and building the future of our world, focusing on human-technology interfaces.
 
-## Active/websites/resources by me you can check out
+## Active websites/resources/tools/explorations by me you can check out
 - Personal website (super basic, will finish at some point haha): kevinjonasj.com
 - report people you hate! (fun project I built to make fun of friends; you can submit "Hatee of the Day", and I can publish it through admin portal
   - https://d1hater.com
